@@ -1,32 +1,53 @@
-# Inventory & Loan Management System
+# Sistem Pencatatan Keuangan Kas
 
 ## Deskripsi
-Project ini merupakan aplikasi web untuk mengelola data inventaris dan peminjaman barang
-sebagai tugas UAS Mata Kuliah Pemrograman Web.
+Sistem Pencatatan Keuangan Kas merupakan aplikasi web yang digunakan untuk
+mencatat pemasukan dan pengeluaran keuangan secara sederhana.
+Aplikasi ini dikembangkan sebagai tugas UAS Mata Kuliah Pemrograman Web.
 
 ## Studi Kasus
-Pengelolaan inventaris dan peminjaman barang pada organisasi atau unit kerja kampus.
+Pencatatan keuangan kas pada organisasi mahasiswa atau unit kerja
+yang bertujuan untuk membantu pengelolaan data keuangan agar lebih rapi,
+terstruktur, dan mudah dilaporkan.
 
-## Fitur yang Direncanakan
-- Login dan Register
-- Dashboard Admin
-- CRUD Data Barang
-- CRUD Data Peminjaman
-- Export Laporan ke PDF dan Excel
+## Fitur Aplikasi
+- Login dan Register Pengguna
+- Dashboard Ringkasan Keuangan
+- CRUD Data Transaksi Keuangan
+  - Pemasukan
+  - Pengeluaran
+- Export Laporan Keuangan ke format PDF
+- Export Laporan Keuangan ke format Excel
 - Session Management
-- Desain menggunakan Bootstrap
+- Antarmuka berbasis Bootstrap
 
-## Teknologi
+## Teknologi yang Digunakan
 - Frontend : HTML, CSS, Bootstrap
 - Backend  : PHP
 - Database : MySQL
+- Library  :
+  - DomPDF (Export PDF)
+  - PhpSpreadsheet (Export Excel)
 
-## Progress Pengembangan
-- Perancangan struktur folder frontend dan backend
+## Struktur Aplikasi
+- Frontend : Menampilkan antarmuka pengguna
+- Backend  : Mengelola logika aplikasi dan pengolahan data
+- Database : Menyimpan data transaksi keuangan
+- Report   : Menghasilkan laporan keuangan dalam format PDF dan Excel
+
+## Status Pengembangan
+🚧 Tahap awal pengembangan
+- Perancangan struktur folder aplikasi
 - Penyiapan modul autentikasi
-- Penyiapan modul CRUD dan laporan (PDF & Excel)
+- Penyiapan modul transaksi keuangan
+- Penyiapan modul laporan keuangan
+
+## Tujuan Pengembangan
+- Membantu pencatatan keuangan kas secara digital
+- Mempermudah proses pelaporan keuangan
+- Menerapkan konsep CRUD, session, dan reporting dalam aplikasi web
 
 ## Author
 Nama  : Azmi Fauzan  
 NPM   : 23552011349  
-Kelas : UASWEB1
+Kelas : 23  CNS B
