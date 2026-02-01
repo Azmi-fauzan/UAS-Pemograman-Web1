@@ -8,7 +8,7 @@
 **NIM** : 23552011349  
 **Kelas** : 23CNSB  
 **Mata Kuliah** : Pemrograman Web
-**Website** : https://finance-managament.my.id/backend/auth/login.php 
+**Website** : https://finance-managament.my.id 
 
 ---
 
