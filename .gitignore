@@ -1,0 +1,24 @@
+/vendor/
+/node_modules/
+.env
+*.log
+
+# Database asli
+database.sql
+*.sql
+
+
+# Konfigurasi sensitif
+backend/config/database.php
+backend/config/koneksi.php
+
+# Log & temp
+*.log
+/tmp
+/cache
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
