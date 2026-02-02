@@ -9,7 +9,7 @@
 **Kelas** : 23CNSB  
 **Mata Kuliah** : Pemrograman Web
 **Website** : https://finance-managament.my.id 
-
+**Video Demo Website**: https://drive.google.com/file/d/1LRe48NrL7ujW0LfHnoNbG6gKhnPG-JqI/view?usp=sharing 
 ---
 
 ## 📌 Deskripsi Aplikasi
